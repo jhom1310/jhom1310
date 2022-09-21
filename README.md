@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhom1310&label=Profile%20views&color=0e75b6&style=flat" alt="jhom1310" /> </p>
 
-- 🔭 I’m currently working on **DocTraining**
+- 🔭 I’m currently working on **LAIS**
 
 - 🌱 I’m currently learning **Django, Vue.js, Flutter**
 
